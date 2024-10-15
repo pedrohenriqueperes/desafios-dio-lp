@@ -39,7 +39,7 @@ Este é um repositório pessoal para fins educacionais, portanto, não estou ace
 
 ## Agradecimentos
 
-Agradeço à Digital Innovation One (DIO) pela oportunidade de aprendizado e pelos desafios propostos que me ajudaram a aprimorar minhas habilidades em lógica de programação.
+Agradeço à Descobrimento Interatividade Oportunidade (DIO) pela oportunidade de aprendizado e pelos desafios propostos que me ajudaram a aprimorar minhas habilidades em lógica de programação.
 
 ---
 
